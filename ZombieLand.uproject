@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{56439F8A-4930-293C-83AB-E6A3CF305DD4}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ZombieLand",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
